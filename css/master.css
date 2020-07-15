@@ -11,3 +11,49 @@ section {
   margin-left: 20px;
   line-height: 150%;
 }
+
+.nav-bar {
+  border-style: outset;
+  background-color: teal;
+  width: 200px;
+}
+
+.index-body {
+  background-color:grey;
+  color: white;
+}
+
+.interest-body {
+  background-color: orangered;
+  color: white;
+}
+
+.resume-body {
+  background-color: purple;
+  color:white;
+}
+
+.name {
+  font-family: cursive;
+  display: inline;
+}
+
+.golf-para {
+  background-color: blue;
+}
+
+.cars-para {
+  background-color: green;
+}
+
+.cooking-para {
+  background-color: indigo;
+}
+
+A:link { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
+A:visited { COLOR: yellow; TEXT-DECORATION: none; font-weight: normal }
+A:hover { COLOR: pink; TEXT-DECORATION: none; font-weight: none }
+
+ul.a {list-style-type: square;}
+ul.b {list-style-type: circle;}
+ol.c {list-style-type: lower-alpha;}
