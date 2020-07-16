@@ -57,3 +57,10 @@ A:hover { COLOR: pink; TEXT-DECORATION: none; font-weight: none }
 ul.a {list-style-type: square;}
 ul.b {list-style-type: circle;}
 ol.c {list-style-type: lower-alpha;}
+
+img {
+    width:  400px;
+    height: 300px;
+    object-fit: cover;
+    background-size: cover;
+}
